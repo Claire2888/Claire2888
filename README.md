@@ -5,7 +5,7 @@ I'm Claire, a full stack web developer with a keen interest in front-end and des
 After seven years working within digital marketing I found myself becoming more and more curious with the coding and the development side of websites. 
 Whilst working at Canada Learning Code in Toronto I was exposed to the exciting, thriving growth environment that comes with working within the tech industry.
 
-I then returned home with the motivation to seek out this new direction and poured everything I had into becoming a web developer. 
+Soon after I returned home with the motivation to seek out this new direction and poured everything I had into becoming a web developer. 
 
 - 🔭 I’m currently working on my blog, a personal project wordpress site on caterpillars and sharping my skills from bootcamp.
 - 🌱 I’m currently learning Vue.js, 
