@@ -15,4 +15,4 @@ I then returned home with the motivation to seek out this new direction and pour
 - ⚡ Fun fact: I want to learn to snowboard this year!
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/clairerennie/)>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/clairerennie/)
