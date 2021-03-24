@@ -8,7 +8,7 @@ Whilst working at Canada Learning Code in Toronto I was exposed to the exciting,
 Soon after I returned home with the motivation to seek out this new direction and poured everything I had into becoming a web developer. 
 
 - 🔭 I’m currently working on my blog, a few personal projects and sharping my skills.
-- 🌱 I’m currently learning a Udemy course on the full stack to further advance the skills I learnt in bootcamp. 
+- 🌱 I’m currently learning Python & studying a Udemy course on the full stack to advance the skills I learnt in bootcamp. 
 - 🌱 Also learning UI/UX udemy course to tap into my creative side and learn more about design development. 
 - 🌱 I’m looking for help with networking & finding a community within development to bounce ideas off and learn from.  
 - 💬 Ask me about yoga, fitness bootcamp, meditation & books!
